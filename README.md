@@ -7,6 +7,6 @@ This mod is my first mod!
 
 You have to use commands like 
 
-/timeaccel start 
+* /timeaccel start *  
 
-for it to start
+for it to start speeding up
